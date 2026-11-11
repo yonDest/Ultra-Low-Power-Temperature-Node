@@ -1,0 +1,7 @@
+Debug/
+Release/
+*.elf
+*.map
+*.list
+.settings/
+.DS_Store
